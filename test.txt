@@ -2,4 +2,5 @@ Test file
 -second change
 -third line change
 --fourth change
---change in branch test
+--change in branch tes
+--3 way merge test
