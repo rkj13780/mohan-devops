@@ -3,4 +3,4 @@ Test file
 -third line change
 --fourth change
 --change in branch tes
---3 way merge test
+--change in test
