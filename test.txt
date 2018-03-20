@@ -6,6 +6,4 @@ Test file
 --change in branch test1
 -master change for 3 way merger
 --change in branch tes
---3 way merge test
-change fhdk
--
+--change in test
