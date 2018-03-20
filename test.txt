@@ -4,3 +4,4 @@ Test file
 --fourth change
 --change in branch test
 --change in branch test1
+-master change for 3 way merger
